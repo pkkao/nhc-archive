@@ -1,10 +1,9 @@
 .. Documentation master file
 
-The Mother Fucking NHC Archive
+The NHC Archive
 ==============================
 
-eat shit eric
-
+under construction.
 
 Contents
 --------
